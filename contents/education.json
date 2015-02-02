@@ -1,1 +1,12 @@
-[]
+[{
+    "degree": "Master's of Science in Computer Science",
+    "school": "University of Colorado, Boulder",
+    "grad": "May 2016",
+    "gpa": "NA"
+
+}, {
+    "degree": "Bachelor's of Architecture and Design",
+    "school": "University of Colorado, Boulder",
+    "grad": "May 2014",
+    "gpa": "3.7"
+}]

@@ -1,1 +1,19 @@
-[]
+[{
+    "name": "Natural Language Processing (NLP)",
+    "exp": "4/5"
+}, {
+    "name": "Web Design and Development (JavaScript, JQuery, Jade, Node.js, HTML5, CSS)",
+    "exp": "5/5"
+}, {
+    "name": "Python",
+    "exp": "5/5"
+}, {
+    "name": "C/C++",
+    "exp": "4/5"
+}, {
+    "name": "Databases (FileMaker and PHP)",
+    "exp": "3/5"
+}, {
+    "name": "Architecture and Design",
+    "exp": "5/5"
+}]

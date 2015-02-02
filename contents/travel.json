@@ -1,10 +1,10 @@
 [{
-    "title": "Aspen",
-    "description": "This is a trip to Aspen. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Europe, 2014 - 2015",
+    "description": "Istanbul - 5 nights; Rome - 2 nights; Florence - 4 nights; Pisa - 1 night; Nice - 7 nights",
     "image": "aspen.png"
 },
 {
-    "title": "Boulder",
-    "description": "This is a trip to Boulder. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "title": "Iran, 2014",
+    "description": "Tehran - 5 weeks; Kashan - 3 nights",
     "image": "boulder.png"
 }]

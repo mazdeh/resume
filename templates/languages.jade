@@ -1,0 +1,11 @@
+h3 Languages
+table.u-full-width
+  thead
+    tr
+      th Language
+      th Fluency
+  tbody
+  each lang in contents['languages.json'].metadata     
+    tr
+      td= lang.name
+      td= lang.flu

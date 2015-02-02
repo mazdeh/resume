@@ -1,2 +1,15 @@
 h3 Education
-p (todo)
+table.u-full-width
+  thead
+    tr
+        th Degree
+        th School
+        th Graduation Date
+        th GPA
+  tbody
+  each edu in contents['education.json'].metadata     
+    tr
+    td= edu.degree
+      td= edu.school
+      td= edu.grad
+      td= edu.gpa
